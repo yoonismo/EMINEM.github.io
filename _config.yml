@@ -54,7 +54,7 @@ History
 remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 url                      : "https://EMINEM.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl
+baseurl                  : ""
 # Site Settings
 locale                   : "en-US"
 title                    : "Site Title"
