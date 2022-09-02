@@ -53,7 +53,7 @@ History
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-url                      : "https://yourname.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://EMINEM.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl
 # Site Settings
 locale                   : "en-US"
